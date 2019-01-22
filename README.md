@@ -11,6 +11,6 @@ I replace the sense resistor on my INA219 boards with a 10milli ohm resistor as 
 To obtain the needed calibration value (see the cal_device routine) I use a 40 Ohm 2W resistor and use a 5V power supply. I modify the calibration code until I see the proper 125milli amp result.
 Manual calibration allows you to get the best calibration code for your specific sample resistor.
 
-To stop the logging just press control-c.
+To stop the logging just press control-c. 
 
 For measuring charge current for a phone I cut a usb c type cable to put the VBUS wires through the INA219 terminal. A connection to GND is needed for the voltage measurement.
