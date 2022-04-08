@@ -1,3 +1,5 @@
+![picture](https://cdn-learn.adafruit.com/assets/assets/000/002/452/medium800/adafruit_products_ID904_LRG.jpg)
+
 INA219 Log Battery Voltage and Charge Current to file
 
 These 3 python files will allow you to use a INA219 board (like the ones on adafruit and amazon) to log voltage and current to both the screen and a file once every second.
